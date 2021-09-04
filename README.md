@@ -1,5 +1,9 @@
 # instantOS st
 
+Applied patch "scrollback" because I can't live without it.
+
+Original README following below.
+
 this st fork is the default terminal emulator being used in instantOS
 It is nothing special, it really just gets the job done which is what a default terminal should do. 
 The core changes are
