@@ -8,7 +8,7 @@
 
 static char *font = "Fira Code Nerd Font Mono:pixelsize=15:antialias=true:autohint=true";
 
-static char *font2[] = { "JoyPixels:pixelsize=15:antialias=true:autohint=true" };
+static char *font2[] = { "Noto Color Emoji:pixelsize=15:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
