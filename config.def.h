@@ -6,9 +6,9 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "Fira Code Nerd Font Mono:pixelsize=15:antialias=true:autohint=true";
+static char *font = "Fira Code Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
 
-static char *font2[] = { "Noto Color Emoji:pixelsize=15:antialias=true:autohint=true" };
+static char *font2[] = { "Noto Color Emoji:pixelsize=16:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
@@ -109,18 +109,18 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.8;
+float alpha = 0.9;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
 	/* 8 normal colors */
-	"black",
-	"red3",
-	"green3",
-	"yellow3",
-	"blue2",
-	"magenta3",
-	"cyan3",
+	"#282828",
+	"#ff002f",
+	"#00ff51",
+	"#ffd100",
+	"#1c3aff",
+	"#ff00ae",
+	"#00aeff",
 	"gray90",
 
 	/* 8 bright colors */
