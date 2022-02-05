@@ -117,11 +117,11 @@ static const char *colorname[] = {
 	/* 8 normal colors */
 	"#282828",
 	"#F5292E",
-        "#89DE00",
-	"#EEBA0B",
-	"#0087FF",
+        "#3DDC97",
+	"#D7B377",
+	"#197278",
 	"#D81159",
-	"#45DCFF",
+	"#80DED9",
 	"gray90",
 
 	/* 8 bright colors */
