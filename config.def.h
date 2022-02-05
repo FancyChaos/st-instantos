@@ -6,9 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "Fira Code Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Fira Code Nerd Font:pixelsize=18:antialias=true";
 
-static char *font2[] = { "Noto Color Emoji:pixelsize=16:antialias=true:autohint=true" };
+static char *font2[] = {
+};
 static int borderpx = 2;
 
 /*
